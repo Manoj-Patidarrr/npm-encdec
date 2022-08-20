@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "node-rsa": "^1.1.1"
-  }
+  },
+  "name": "npm-encdec",
+  "description": "encdec Package is perform encryption and decryption for the request and response.\r this package is usefull for instant performing encryption and decryption",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm install encdec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Manoj-Patidarrr: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@github.com/Manoj-Patidarrr/npm-encdec.git"
+  },
+  "author": "manoj patidar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manoj-Patidarrr/npm-encdec/issues"
+  },
+  "homepage": "https://github.com/Manoj-Patidarrr/npm-encdec#readme"
 }
